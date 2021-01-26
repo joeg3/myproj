@@ -1,3 +1,4 @@
 abcdefgh
 change on lb branch
-change on rb2 branch
+change remotely rb2 branch
+change locally rb2 branch
