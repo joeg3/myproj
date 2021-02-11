@@ -1,4 +1,4 @@
-abcdefgh
+change on master branch
 change on lb branch
 change remotely rb2 branch
 change locally rb2 branch
