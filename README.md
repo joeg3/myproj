@@ -1,3 +1,2 @@
-Sample project
-Added this line on branch rb2 on GitHub
-Simple Change locally via branch rb2
+# myproj
+Simple repo used for experimentation with git commands.
